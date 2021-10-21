@@ -42,7 +42,7 @@ You can listen to the RENDERED event to know when graphics was completely render
 USAGE
 ==============
 
-1. Clone and build [svg-renderer-library](https://github.com/ciacob/svg-renderer-library.git). It should produce **svg-renderer-library.swc**. Add it to your Flex/AIR project path.
+1. Clone and build [svg-renderer-library](https://github.com/ciacob/svg-renderer-library.git). It should produce **svg-renderer-library.swc**. Add it to your Flex/AIR project's path.
 
 2. Add the SVG component to your MXML, and set the property "Source" on the component to:
   * a string with the URL of the SVG file.
